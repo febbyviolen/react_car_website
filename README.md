@@ -1,3 +1,6 @@
+live at:
+https://react-car-website.vercel.app
+
 build with 
 - react
 - typescript
@@ -6,4 +9,3 @@ build with
 
 using Client x Server side rendering
 
-This is a clone car showcase website.
